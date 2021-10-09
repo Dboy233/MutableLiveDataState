@@ -1,0 +1,3 @@
+rootProject.name = "MutableLiveDataState"
+include ':app'
+include ':library'
