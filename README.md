@@ -2,6 +2,7 @@
 对MutableLiveData增加状态信息
 
 ## 获取依赖
+last-version [![](https://jitpack.io/v/Dboy233/MutableLiveDataState.svg)](https://jitpack.io/#Dboy233/MutableLiveDataState)
     ```
     allprojects {
     		repositories {
@@ -11,7 +12,7 @@
     	}
 
     dependencies {
-           implementation 'com.github.Dboy233:MutableLiveDataState:1.0.0'
+           implementation 'com.github.Dboy233:MutableLiveDataState:last-version'
     }
     ```
 
