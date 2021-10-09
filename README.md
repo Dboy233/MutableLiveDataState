@@ -3,6 +3,7 @@
 
 ## 获取依赖
 last-version [![](https://jitpack.io/v/Dboy233/MutableLiveDataState.svg)](https://jitpack.io/#Dboy233/MutableLiveDataState)
+
     ```
     allprojects {
     		repositories {
