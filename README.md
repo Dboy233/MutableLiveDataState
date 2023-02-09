@@ -1,4 +1,4 @@
-# MutableLiveDataStatus
+# MutableLiveDataStates
 对MutableLiveData增加状态信息
 
 ## 获取依赖
